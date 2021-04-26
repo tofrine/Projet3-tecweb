@@ -183,10 +183,10 @@ if __name__ == "__main__":
             for name in glob.glob('./data/*'):
                 # nom est le nom du dico
                 nom = name.split('.')[1].split('/')[-1]
-                st.write(f'Extrait du dictionnaire {nom} : ')
-                dft = load_data(name)
-                st.write(dft)
-
+                if not nom.startswith("ho") :
+                    st.write(f'Extrait du dictionnaire {nom} : ')
+                    dft = load_data(name)
+                    st.write(dft)
 
 
 
