@@ -1,0 +1,231 @@
+{
+    "áksidâŋ": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "accident"
+        ]
+    },
+    "aŋpû": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "ampoule"
+        ]
+    },
+    "ánûsì": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "oignon"
+        ]
+    },
+    "atâ": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "autel"
+        ]
+    },
+    "àvyɔ̌ŋ": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "avion"
+        ]
+    },
+    "awɛ́": {
+        "pos": "Adverbe (adv.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "tout, tous"
+        ]
+    },
+    "bʉ'": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "Force, dictature"
+        ]
+    },
+    "mpbʉ̂'": {
+        "pos": "Nom (n.)",
+        "prefix": "mp",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "Grue",
+            "Titre honorifique donné à un libérateur"
+        ]
+    },
+    "ba": {
+        "pos": "Conjonction (conj.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "aussi, même"
+        ]
+    },
+    "bǎ": {
+        "pos": "Adverbe (adv.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "au moins"
+        ]
+    },
+    "mbà’": {
+        "pos": "Nom (n.)",
+        "prefix": "m",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "bouton"
+        ]
+    },
+    "mbà": {
+        "pos": "Nom (n.)",
+        "prefix": "m",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "calebasse à vin"
+        ]
+    },
+    "mbâ": {
+        "pos": "Nom (n.)",
+        "prefix": "m",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "profession"
+        ]
+    },
+    "ba'á": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "père"
+        ]
+    },
+    "bâ’dzə́": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "tisserand"
+        ]
+    },
+    "mbàk": {
+        "pos": "Nom (n.)",
+        "prefix": "m",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "habitude",
+            "tendance"
+        ]
+    },
+    "bàlɔ̂k": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "malchance"
+        ]
+    },
+    "mpbâm": {
+        "pos": "Nom (n.)",
+        "prefix": "mp",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "ivrogne"
+        ]
+    },
+    "mbâŋ": {
+        "pos": "Nom (n.)",
+        "prefix": "m",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "banque, caisse"
+        ]
+    },
+    "bàŋ": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "pluie"
+        ]
+    },
+    "bâŋ mə́sà": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "trésorier"
+        ]
+    },
+    "mbap": {
+        "pos": "Nom (n.)",
+        "prefix": "m",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "animal",
+            "viande",
+            "chair"
+        ]
+    },
+    "bâpbǎp": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "plusieurs étapes, plusieurs portions"
+        ]
+    },
+    "bap də̌m": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "viande du rat"
+        ]
+    },
+    "bapgù": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "poisson"
+        ]
+    }
+}

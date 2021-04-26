@@ -1,0 +1,58 @@
+{
+    "a": {
+        "pos": "Adverbe (adv.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "seulement"
+        ]
+    },
+    "á": {
+        "pos": "Pronom (pron.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "lui",
+            "il",
+            "elle"
+        ]
+    },
+    "alá klu": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "plante du pied"
+        ]
+    },
+    "alá pū": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "paume de la main"
+        ]
+    },
+    "malēm": {
+        "pos": "Nom (n.)",
+        "prefix": "m",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "sorte d’épice"
+        ]
+    },
+    "malɛ̄ŋge": {
+        "pos": "Nom (n.)",
+        "prefix": "m",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "balafon avec neuf tons"
+        ]
+    }
+}

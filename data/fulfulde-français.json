@@ -1,0 +1,92 @@
+{
+    "aalali": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "li",
+        "audio": 0,
+        "traduction-fr": [
+            "racine qui protege contre la sorcellerie"
+        ]
+    },
+    "aalale": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "le",
+        "audio": 0,
+        "traduction-fr": [
+            "racine qui protege contre la sorcellerie"
+        ]
+    },
+    "aamta": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "se rechauffer"
+        ]
+    },
+    "ɲaamugol": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "gol",
+        "audio": 0,
+        "traduction-fr": [
+            "manger"
+        ]
+    },
+    "ɲaariji": {
+        "pos": "Adjectif (adj.)",
+        "prefix": "",
+        "suffix": "ji",
+        "audio": 0,
+        "traduction-fr": [
+            "chat"
+        ]
+    },
+    "ɲaariru": {
+        "pos": "Adjectif (adj.)",
+        "prefix": "",
+        "suffix": "ru",
+        "audio": 0,
+        "traduction-fr": [
+            "chat"
+        ]
+    },
+    "aartugo": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "go",
+        "audio": 1,
+        "traduction-fr": [
+            "être le premier"
+        ]
+    },
+    "aartu": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "commence avant"
+        ]
+    },
+    "aawanɗe": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "ɗe",
+        "audio": 0,
+        "traduction-fr": [
+            "mise en place des semences"
+        ]
+    },
+    "aawannde": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "nde",
+        "audio": 0,
+        "traduction-fr": [
+            "mise en place des semences"
+        ]
+    }
+}

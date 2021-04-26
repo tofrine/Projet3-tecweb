@@ -1,0 +1,197 @@
+{
+    "ɲà": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "*ɲì-ya --> ɲà (bon + suf caus) = rendre bon",
+            "réussir",
+            "marcher",
+            "faire marcher",
+            "satisfaire",
+            "suffire",
+            "être bon",
+            "embellir",
+            "se passer de",
+            "aider (à -- mà)"
+        ]
+    },
+    "ɲá": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "manquer"
+        ]
+    },
+    "à": {
+        "pos": "Pronom Personnel (pers.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "3SG",
+            "il ; elle ; le ; la ; lui ; en ; y ; son ; sa ; ses",
+            "ceci",
+            "sens démonstratif annonçant ce qui suit :",
+            "se",
+            "sens réfléchi"
+        ]
+    },
+    "á": {
+        "pos": "Pronom Personnel (pers.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "2PL"
+        ]
+    },
+    "á'": {
+        "pos": "Pronom Personnel (pers.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "2PL"
+        ]
+    },
+    "ɲàa": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "nid",
+            "d'oiseau, de souris"
+        ]
+    },
+    "ɲàɲa": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "joie",
+            "plaisir"
+        ]
+    },
+    "ɲáɲa": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "agitation"
+        ]
+    },
+    "áa": {
+        "pos": "Interjection (intj.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "ah!",
+            "oh!"
+        ]
+    },
+    "ɲáaji": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "salive du serpent cracheur"
+        ]
+    },
+    "ɲàamɛ": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "dromadaire"
+        ]
+    },
+    "ɲàamɛdolo": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "baudrier d'Orion"
+        ]
+    },
+    "ɲàamɛŋɔni": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "herbe Centaurea sp",
+            "plantes herbacées vivaces ---> 25 / 60 cm",
+            "en terrain sablonneux, les bractées des capitules sont épineuses)",
+            "Centaurea perrottetii",
+            "Centaurea senegalensis"
+        ]
+    },
+    "ɲáanikɔ̀nɔnin": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "bagadais casqué",
+            "Prionops plumata",
+            "(huppe blanche, par paires ou petits groupes, sifflement gai et fort, répété"
+        ]
+    },
+    "ɲàanti": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "varice"
+        ]
+    },
+    "ɲàari": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "chat"
+        ]
+    },
+    "àbarika": {
+        "pos": "Interjection (intj.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "merci"
+        ]
+    },
+    "ɲàci": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "utilité",
+            "emploi"
+        ]
+    },
+    "ɲàcintan": {
+        "pos": "Adjectif (adj.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "inutile"
+        ]
+    }
+}

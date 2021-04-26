@@ -1,0 +1,2138 @@
+{
+    "Anantara Sahara Tozeur Resort & Villas": {
+        "zone": "Afrique",
+        "pays": "Tunisie",
+        "ville": "Tozeur",
+        "eco": 0
+    },
+    "NH Bariloche Edelweiss": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Bariloche",
+        "eco": 1
+    },
+    "NH Buenos Aires 9 de Julio": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Buenos Aires",
+        "eco": 1
+    },
+    "NH Buenos Aires City": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Buenos Aires",
+        "eco": 0
+    },
+    "NH Buenos Aires Florida": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Buenos Aires",
+        "eco": 0
+    },
+    "NH Buenos Aires Latino": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Buenos Aires",
+        "eco": 0
+    },
+    "NH Buenos Aires Tango": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Buenos Aires",
+        "eco": 1
+    },
+    "NH Collection Buenos Aires Centro Histórico": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Buenos Aires",
+        "eco": 0
+    },
+    "NH Collection Buenos Aires Crillon": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Buenos Aires",
+        "eco": 0
+    },
+    "NH Collection Buenos Aires Jousten": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Buenos Aires",
+        "eco": 1
+    },
+    "NH Collection Buenos Aires Lancaster": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Buenos Aires",
+        "eco": 1
+    },
+    "NH Córdoba Panorama": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Cordoba",
+        "eco": 1
+    },
+    "NH Córdoba Urbano": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Cordoba",
+        "eco": 0
+    },
+    "NH Gran Hotel Provincial": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Mar del Plata",
+        "eco": 0
+    },
+    "NH Hotel Casino": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Mar del Plata",
+        "eco": 0
+    },
+    "NH Mendoza Cordillera": {
+        "zone": "Amérique",
+        "pays": "Argentine",
+        "ville": "Mendoza",
+        "eco": 0
+    },
+    "NH Curitiba The Five": {
+        "zone": "Amérique",
+        "pays": "Brésil",
+        "ville": "Curitiba",
+        "eco": 0
+    },
+    "NH Antofagasta": {
+        "zone": "Amérique",
+        "pays": "Chili",
+        "ville": "Antofagasta",
+        "eco": 0
+    },
+    "NH Iquique": {
+        "zone": "Amérique",
+        "pays": "Chili",
+        "ville": "Iquique",
+        "eco": 0
+    },
+    "NH Ciudad de Santiago": {
+        "zone": "Amérique",
+        "pays": "Chili",
+        "ville": "Santiago",
+        "eco": 0
+    },
+    "NH Collection Plaza Santiago": {
+        "zone": "Amérique",
+        "pays": "Chili",
+        "ville": "Santiago",
+        "eco": 0
+    },
+    "NH Collection Santiago Casacostanera": {
+        "zone": "Amérique",
+        "pays": "Chili",
+        "ville": "Santiago",
+        "eco": 0
+    },
+    "NH Collection Barranquilla Smartsuites Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Barranquilla",
+        "eco": 0
+    },
+    "NH Bogotá Boheme Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Bogotá",
+        "eco": 1
+    },
+    "NH Bogotá Pavillon Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Bogotá",
+        "eco": 0
+    },
+    "NH Bogotá Urban 26 Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Bogotá",
+        "eco": 0
+    },
+    "NH Bogotá Urban 93 Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Bogotá",
+        "eco": 0
+    },
+    "NH Collection Bogotá Andino Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Bogotá",
+        "eco": 1
+    },
+    "NH Collection Bogotá Hacienda Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Bogotá",
+        "eco": 1
+    },
+    "NH Collection Bogotá Teleport Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Bogotá",
+        "eco": 1
+    },
+    "NH Collection Bogotá Terra 100 Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Bogotá",
+        "eco": 1
+    },
+    "NH Collection Bogotá WTC Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Bogotá",
+        "eco": 1
+    },
+    "NH Cali Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Cali",
+        "eco": 0
+    },
+    "NH Cartagena Urban Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Carthagène des Indes",
+        "eco": 0
+    },
+    "NH Collection Medellín Royal": {
+        "zone": "Amérique",
+        "pays": "Colombie",
+        "ville": "Medellín",
+        "eco": 0
+    },
+    "NH Capri La Habana": {
+        "zone": "Amérique",
+        "pays": "Cuba",
+        "ville": "La Havane",
+        "eco": 0
+    },
+    "NH Collection Victoria La Habana": {
+        "zone": "Amérique",
+        "pays": "Cuba",
+        "ville": "La Havane",
+        "eco": 0
+    },
+    "NH Collection Quito Royal": {
+        "zone": "Amérique",
+        "pays": "Équateur",
+        "ville": "Quito",
+        "eco": 0
+    },
+    "NH Collection New York Madison Avenue": {
+        "zone": "Amérique",
+        "pays": "États-Unis",
+        "ville": "New York",
+        "eco": 0
+    },
+    "NH Haiti El Rancho": {
+        "zone": "Amérique",
+        "pays": "Haïti",
+        "ville": "Port au Prince",
+        "eco": 0
+    },
+    "NH Cancún Airport": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Cancún",
+        "eco": 0
+    },
+    "NH Coatzacoalcos": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Coatzacoalcos",
+        "eco": 0
+    },
+    "NH Collection Guadalajara Providencia": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Guadalajara",
+        "eco": 1
+    },
+    "NH Collection León Expo": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "León",
+        "eco": 0
+    },
+    "NH Collection Mérida Paseo Montejo": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Mérida",
+        "eco": 0
+    },
+    "NH Collection Mexico City Airport T2": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Mexico",
+        "eco": 0
+    },
+    "NH Collection Mexico City Centro Histórico": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Mexico",
+        "eco": 1
+    },
+    "NH Collection Mexico City Reforma": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Mexico",
+        "eco": 0
+    },
+    "NH Collection Mexico City Santa Fe": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Mexico",
+        "eco": 0
+    },
+    "NH Mexico City Valle Dorado": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Mexico",
+        "eco": 0
+    },
+    "NH Collection Monterrey San Pedro": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "San Luis Potosí",
+        "eco": 0
+    },
+    "NH Monterrey La Fe": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Monterrey",
+        "eco": 0
+    },
+    "NH Puebla Centro Histórico": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Puebla",
+        "eco": 0
+    },
+    "NH Puebla Finsa": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Puebla",
+        "eco": 0
+    },
+    "NH Queretaro": {
+        "zone": "Amérique",
+        "pays": "Mexique",
+        "ville": "Queretaro",
+        "eco": 0
+    },
+    "NH Montevideo Columbia": {
+        "zone": "Amérique",
+        "pays": "Uruguay",
+        "ville": "Montevideo",
+        "eco": 0
+    },
+    "NH Berlin Alexanderplatz": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Berlin",
+        "eco": 1
+    },
+    "NH Berlin City Ost": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Berlin",
+        "eco": 0
+    },
+    "NH Berlin Kurfürstendamm": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Berlin",
+        "eco": 1
+    },
+    "NH Berlin Potsdamer Platz": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Berlin",
+        "eco": 1
+    },
+    "NH Collection Berlin Mitte Friedrichstrasse": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Berlin",
+        "eco": 1
+    },
+    "NH Collection Berlin Mitte am Checkpoint Charlie": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Berlin",
+        "eco": 1
+    },
+    "nhow Berlin": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Berlin",
+        "eco": 1
+    },
+    "NH Bingen": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Bingen am Rhein",
+        "eco": 1
+    },
+    "NH Collection Köln Mediapark": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Cologne",
+        "eco": 1
+    },
+    "NH Köln Altstadt": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Cologne",
+        "eco": 1
+    },
+    "NH Dortmund": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Dortmund",
+        "eco": 1
+    },
+    "NH Collection Dresden Altmarkt": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Dresde",
+        "eco": 1
+    },
+    "NH Dresden Neustadt": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Dresde",
+        "eco": 1
+    },
+    "NH Düsseldorf City": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Düsseldorf",
+        "eco": 1
+    },
+    "NH Düsseldorf City Nord": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Düsseldorf",
+        "eco": 1
+    },
+    "NH Düsseldorf Königsallee": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Düsseldorf",
+        "eco": 1
+    },
+    "NH Erlangen": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Erlangen",
+        "eco": 1
+    },
+    "NH Essen": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Essen",
+        "eco": 0
+    },
+    "NH Collection Frankfurt City": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Francfort",
+        "eco": 1
+    },
+    "NH Frankfurt Airport": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Francfort",
+        "eco": 1
+    },
+    "NH Frankfurt Airport West": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Francfort",
+        "eco": 1
+    },
+    "NH Frankfurt Messe": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Francfort",
+        "eco": 1
+    },
+    "NH Frankfurt Mörfelden Conference Center": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Francfort",
+        "eco": 1
+    },
+    "NH Frankfurt Niederrad": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Francfort",
+        "eco": 1
+    },
+    "NH Frankfurt Villa": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Francfort",
+        "eco": 0
+    },
+    "NH Fürth Nürnberg": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Fürth",
+        "eco": 1
+    },
+    "NH Collection Hamburg City": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Hambourg",
+        "eco": 1
+    },
+    "NH Hamburg Altona": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Hambourg",
+        "eco": 1
+    },
+    "NH Hamburg Horner Rennbahn": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Hambourg",
+        "eco": 1
+    },
+    "NH Hamburg Mitte": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Hambourg",
+        "eco": 1
+    },
+    "NH Hannover": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Hanovre",
+        "eco": 0
+    },
+    "NH Heidelberg": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Heidelberg",
+        "eco": 1
+    },
+    "NH Hirschberg Heidelberg": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Hirschberg",
+        "eco": 1
+    },
+    "NH Ingolstadt": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Ingolstadt",
+        "eco": 1
+    },
+    "NH Leipzig Messe": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Leipzig",
+        "eco": 1
+    },
+    "NH Leipzig Zentrum": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Leipzig",
+        "eco": 0
+    },
+    "NH Ludwigsburg": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Ludwigsbourg",
+        "eco": 1
+    },
+    "NH Magdeburg": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Magdeburg",
+        "eco": 1
+    },
+    "NH Mannheim": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Mannheim",
+        "eco": 0
+    },
+    "NH Mannheim Viernheim": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Mannheim",
+        "eco": 1
+    },
+    "NH Collection München Bavaria": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Munich",
+        "eco": 1
+    },
+    "NH München Airport": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Munich",
+        "eco": 1
+    },
+    "NH München City Süd": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Munich",
+        "eco": 1
+    },
+    "NH München Messe": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Munich",
+        "eco": 1
+    },
+    "NH München Ost Conference Center": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Munich",
+        "eco": 1
+    },
+    "NH München Unterhaching": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Munich",
+        "eco": 1
+    },
+    "NH Klösterle Nördlingen": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Nördlingen",
+        "eco": 1
+    },
+    "NH Collection Nürnberg City": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Nuremberg",
+        "eco": 1
+    },
+    "NH Oberhausen": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Oberhausen",
+        "eco": 0
+    },
+    "NH Potsdam": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Potsdam",
+        "eco": 1
+    },
+    "NH Schwerin": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Schwerin",
+        "eco": 1
+    },
+    "NH Stuttgart Airport": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Stuttgart",
+        "eco": 1
+    },
+    "NH Stuttgart Sindelfingen": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Stuttgart",
+        "eco": 1
+    },
+    "NH Weinheim": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Weinheim",
+        "eco": 1
+    },
+    "NH Wiesbaden": {
+        "zone": "Europe",
+        "pays": "Allemagne",
+        "ville": "Wiesbaden",
+        "eco": 1
+    },
+    "NH Andorra La Vella": {
+        "zone": "Europe",
+        "pays": "Andorre",
+        "ville": "Andorra La Vella",
+        "eco": 0
+    },
+    "NH Graz City": {
+        "zone": "Europe",
+        "pays": "Autriche",
+        "ville": "Graz",
+        "eco": 0
+    },
+    "NH Salzburg City": {
+        "zone": "Europe",
+        "pays": "Autriche",
+        "ville": "Salzbourg",
+        "eco": 1
+    },
+    "NH Collection Wien Zentrum": {
+        "zone": "Europe",
+        "pays": "Autriche",
+        "ville": "Vienne",
+        "eco": 1
+    },
+    "NH Danube City": {
+        "zone": "Europe",
+        "pays": "Autriche",
+        "ville": "Vienne",
+        "eco": 1
+    },
+    "NH Vienna Airport Conference Center": {
+        "zone": "Europe",
+        "pays": "Autriche",
+        "ville": "Vienne",
+        "eco": 1
+    },
+    "NH Wien Belvedere": {
+        "zone": "Europe",
+        "pays": "Autriche",
+        "ville": "Vienne",
+        "eco": 1
+    },
+    "NH Wien City": {
+        "zone": "Europe",
+        "pays": "Autriche",
+        "ville": "Vienne",
+        "eco": 1
+    },
+    "NH Collection Antwerp Centre": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Anvers",
+        "eco": 1
+    },
+    "NH Brugge": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Bruges",
+        "eco": 1
+    },
+    "NH Brussels Airport": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Bruxelles",
+        "eco": 1
+    },
+    "NH Brussels Carrefour Europe": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Bruxelles",
+        "eco": 1
+    },
+    "NH Brussels EU Berlaymont": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Bruxelles",
+        "eco": 1
+    },
+    "NH Brussels Grand Place Arenberg": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Bruxelles",
+        "eco": 1
+    },
+    "NH Brussels Louise": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Bruxelles",
+        "eco": 1
+    },
+    "NH Brussels Stéphanie": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Bruxelles",
+        "eco": 1
+    },
+    "NH Collection Brussels Centre": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Bruxelles",
+        "eco": 1
+    },
+    "NH Collection Brussels Grand Sablon": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Bruxelles",
+        "eco": 1
+    },
+    "nhow Brussels Bloom": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Bruxelles",
+        "eco": 1
+    },
+    "NH Gent Belfort": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Gand",
+        "eco": 1
+    },
+    "NH Mechelen": {
+        "zone": "Europe",
+        "pays": "Belgique",
+        "ville": "Malines",
+        "eco": 1
+    },
+    "NH Campo de Gibraltar": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Algeciras",
+        "eco": 0
+    },
+    "NH Alicante": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Alicante",
+        "eco": 0
+    },
+    "NH Collection Palacio de Aranjuez": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Aranjuez",
+        "eco": 1
+    },
+    "NH Collection Palacio de Avilés": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Aviles",
+        "eco": 0
+    },
+    "NH Gran Hotel Casino Extremadura": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Badajoz",
+        "eco": 0
+    },
+    "NH Barcelona Diagonal Center": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 0
+    },
+    "NH Barcelona Eixample": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 1
+    },
+    "NH Barcelona Entenza": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 0
+    },
+    "NH Barcelona Les Corts": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 0
+    },
+    "NH Barcelona Stadium": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 1
+    },
+    "NH Collection Barcelona Constanza": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 1
+    },
+    "NH Collection Barcelona Gran Hotel Calderón": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 1
+    },
+    "NH Collection Barcelona Pódium": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 1
+    },
+    "NH Porta Barcelona": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 1
+    },
+    "NH Sant Boi": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 0
+    },
+    "NH Sants Barcelona": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Barcelone",
+        "eco": 1
+    },
+    "NH Bilbao Deusto": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Bilbao",
+        "eco": 1
+    },
+    "NH Collection Villa de Bilbao": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Bilbao",
+        "eco": 1
+    },
+    "NH La Avanzada": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Bilbao",
+        "eco": 0
+    },
+    "NH Collection Palacio de Burgos": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Burgos",
+        "eco": 0
+    },
+    "NH Collection Cáceres Palacio de Oquendo": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Cáceres",
+        "eco": 1
+    },
+    "NH Campo Cartagena": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Carthagène",
+        "eco": 0
+    },
+    "NH Cartagena": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Carthagène",
+        "eco": 0
+    },
+    "NH Castellón Mindoro": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Castellon",
+        "eco": 0
+    },
+    "NH Castellón Turcosa": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Castellon",
+        "eco": 0
+    },
+    "NH Ciudad Real": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Ciudad Real",
+        "eco": 0
+    },
+    "NH Collection Amistad Córdoba": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Cordoue",
+        "eco": 1
+    },
+    "NH Córdoba Califa": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Cordoue",
+        "eco": 0
+    },
+    "NH Ciudad de Cuenca": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Cuenca",
+        "eco": 0
+    },
+    "NH Gijón": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Gijon",
+        "eco": 1
+    },
+    "NH Collection Granada Victoria": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Grenade",
+        "eco": 1
+    },
+    "NH Luz Huelva": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Huelva",
+        "eco": 0
+    },
+    "NH Avenida Jerez": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Jerez de la Frontera",
+        "eco": 0
+    },
+    "NH Collection A Coruña Finisterre": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "La Corogne",
+        "eco": 0
+    },
+    "NH Imperial Playa": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Las Palmas de Gran Canaria",
+        "eco": 0
+    },
+    "NH Las Palmas Playa Las Canteras": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Las Palmas de Gran Canaria",
+        "eco": 0
+    },
+    "NH Collection León Plaza Mayor": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Leon",
+        "eco": 1
+    },
+    "NH Lleida Pirineos": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Lleida",
+        "eco": 0
+    },
+    "NH Logroño": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Logroño",
+        "eco": 0
+    },
+    "NH Logroño Herencia Rioja": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Logroño",
+        "eco": 0
+    },
+    "NH Alcorcón": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Collection Madrid Abascal": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Collection Madrid Colón": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Collection Madrid Eurobuilding": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Collection Madrid Gran Vía": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Collection Madrid Palacio de Tepa": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Collection Madrid Paseo del Prado": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Collection Madrid Suecia": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Leganés": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Madrid Alonso Martínez": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Madrid Atocha": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Madrid Balboa": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Madrid Barajas Airport": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Madrid Chamberí": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Madrid Lagasca": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Madrid Las Tablas": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Madrid Nacional": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Madrid Paseo de la Habana": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Madrid Príncipe de Vergara": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Madrid Ribera del Manzanares": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Madrid Sur": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Madrid Ventas": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Madrid Zurbano": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 1
+    },
+    "NH Pozuelo Ciudad de la Imagen": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Villa de Coslada": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Madrid",
+        "eco": 0
+    },
+    "NH Málaga": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Malaga",
+        "eco": 0
+    },
+    "Anantara Villa Padierna Palace Benahavís Marbella Resort": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Marbella",
+        "eco": 0
+    },
+    "NH Marbella": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Marbella",
+        "eco": 0
+    },
+    "NH San Pedro de Alcántara": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Marbella",
+        "eco": 0
+    },
+    "NH Amistad Murcia": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Murcie",
+        "eco": 0
+    },
+    "NH Ourense": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Ourense",
+        "eco": 0
+    },
+    "NH Oviedo Principado": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Oviedo",
+        "eco": 0
+    },
+    "NH Pamplona Iruña Park": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Pampelune",
+        "eco": 1
+    },
+    "NH Ciutat de Reus": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Reus",
+        "eco": 1
+    },
+    "NH Collection Santiago de Compostela": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Saint Jacques de Compostelle",
+        "eco": 0
+    },
+    "NH Collection San Sebastián Aránzazu": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Saint Sébastien",
+        "eco": 1
+    },
+    "NH Collection Salamanca Palacio de Castellanos": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Salamanque",
+        "eco": 0
+    },
+    "NH Salamanca Puerta de la Catedral": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Salamanque",
+        "eco": 0
+    },
+    "NH Tenerife": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Santa Cruz de Tenerife",
+        "eco": 0
+    },
+    "NH Ciudad de Santander": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Santander",
+        "eco": 1
+    },
+    "NH Ciudad de Zaragoza": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Saragosse",
+        "eco": 0
+    },
+    "NH Collection Gran Hotel de Zaragoza": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Saragosse",
+        "eco": 1
+    },
+    "NH Sport": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Saragosse",
+        "eco": 0
+    },
+    "NH Collection Sevilla": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Séville",
+        "eco": 1
+    },
+    "NH Sevilla Plaza de Armas": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Séville",
+        "eco": 1
+    },
+    "NH Ciudad de Valencia": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Valence",
+        "eco": 0
+    },
+    "NH Collection Valencia Colón": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Valence",
+        "eco": 0
+    },
+    "NH Valencia Center": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Valence",
+        "eco": 0
+    },
+    "NH Valencia Las Artes": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Valence",
+        "eco": 0
+    },
+    "NH Valencia Las Ciencias": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Valence",
+        "eco": 0
+    },
+    "NH Ciudad de Valladolid": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Valladolid",
+        "eco": 0
+    },
+    "NH Valladolid Bálago": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Valladolid",
+        "eco": 0
+    },
+    "NH Collection Vigo": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Vigo",
+        "eco": 0
+    },
+    "NH Canciller Ayala Vitoria": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Vitoria",
+        "eco": 0
+    },
+    "NH Zamora Palacio del Duero": {
+        "zone": "Europe",
+        "pays": "Espagne",
+        "ville": "Zamora",
+        "eco": 0
+    },
+    "NH Lyon Airport": {
+        "zone": "Europe",
+        "pays": "France",
+        "ville": "Lyon",
+        "eco": 1
+    },
+    "NH Collection Marseille": {
+        "zone": "Europe",
+        "pays": "France",
+        "ville": "Marseille",
+        "eco": 0
+    },
+    "nhow Marseille": {
+        "zone": "Europe",
+        "pays": "France",
+        "ville": "Marseille",
+        "eco": 0
+    },
+    "NH Nice": {
+        "zone": "Europe",
+        "pays": "France",
+        "ville": "Nice",
+        "eco": 1
+    },
+    "NH Toulouse Airport": {
+        "zone": "Europe",
+        "pays": "France",
+        "ville": "Toulouse",
+        "eco": 0
+    },
+    "Anantara New York Palace Budapest Hotel": {
+        "zone": "Europe",
+        "pays": "Hongrie",
+        "ville": "Budapest",
+        "eco": 0
+    },
+    "NH Budapest City": {
+        "zone": "Europe",
+        "pays": "Hongrie",
+        "ville": "Budapest",
+        "eco": 0
+    },
+    "NH Collection Budapest City Center": {
+        "zone": "Europe",
+        "pays": "Hongrie",
+        "ville": "Budapest",
+        "eco": 0
+    },
+    "The Marker Hotel": {
+        "zone": "Europe",
+        "pays": "Irlande",
+        "ville": "Dublin",
+        "eco": 0
+    },
+    "NH Ancona": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Ancône",
+        "eco": 0
+    },
+    "NH Bergamo": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Bergame",
+        "eco": 1
+    },
+    "NH Orio al Serio": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Bergame",
+        "eco": 1
+    },
+    "NH Bologna Villanova": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Bologne",
+        "eco": 1
+    },
+    "NH Bologna de la Gare": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Bologne",
+        "eco": 1
+    },
+    "NH Caltagirone Villa San Mauro": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Caltagirone",
+        "eco": 0
+    },
+    "NH Catania Centro": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Catane",
+        "eco": 1
+    },
+    "NH Catania Parco Degli Aragonesi": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Catane",
+        "eco": 1
+    },
+    "NH Collection Grand Hotel Convento di Amalfi": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Côte Amalfitaine",
+        "eco": 1
+    },
+    "NH Collection Firenze Palazzo Gaddi": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Florence",
+        "eco": 0
+    },
+    "NH Collection Firenze Porta Rossa": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Florence",
+        "eco": 1
+    },
+    "NH Firenze": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Florence",
+        "eco": 1
+    },
+    "NH Collection Genova Marina": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Gênes",
+        "eco": 1
+    },
+    "NH Genova Centro": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Gênes",
+        "eco": 1
+    },
+    "NH La Spezia": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "La Spezia",
+        "eco": 1
+    },
+    "NH Lecco Pontevecchio": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Lecco, Lac de Côme",
+        "eco": 1
+    },
+    "NH Collection Milano Porta Nuova": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "NH Collection Milano President": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "NH Linate": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "NH Milano 2": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "NH Milano 2 Residence": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "NH Milano Concordia": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "NH Milano Congress Centre": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 0
+    },
+    "NH Milano Fiera": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "NH Milano Machiavelli": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "NH Milano Palazzo Moscova": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "NH Milano Touring": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "nhow Milano": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Milan",
+        "eco": 1
+    },
+    "NH Napoli Panorama": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Naples",
+        "eco": 1
+    },
+    "NH Padova": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Padoue",
+        "eco": 1
+    },
+    "NH Palermo": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Palerme",
+        "eco": 1
+    },
+    "NH Parma": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Parme",
+        "eco": 1
+    },
+    "NH Pisa": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Pise",
+        "eco": 1
+    },
+    "NH Ravenna": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Ravenne",
+        "eco": 1
+    },
+    "Anantara Palazzo Naiadi Rome Hotel": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Rome",
+        "eco": 0
+    },
+    "NH Collection Roma Centro": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Rome",
+        "eco": 1
+    },
+    "NH Collection Roma Fori Imperiali": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Rome",
+        "eco": 1
+    },
+    "NH Collection Roma Giustiniano": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Rome",
+        "eco": 1
+    },
+    "NH Collection Roma Palazzo Cinquecento": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Rome",
+        "eco": 1
+    },
+    "NH Collection Roma Vittorio Veneto": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Rome",
+        "eco": 1
+    },
+    "NH Roma Villa Carpegna": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Rome",
+        "eco": 1
+    },
+    "NH Savona Darsena": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Savone",
+        "eco": 1
+    },
+    "NH Siena": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Sienne",
+        "eco": 1
+    },
+    "NH Collection Taormina": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Taormine",
+        "eco": 1
+    },
+    "NH Trento": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Trento",
+        "eco": 1
+    },
+    "NH Trieste": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Trieste",
+        "eco": 1
+    },
+    "NH Collection Torino Piazza Carlina": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Turin",
+        "eco": 0
+    },
+    "NH Torino Centro": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Turin",
+        "eco": 0
+    },
+    "NH Torino Lingotto Congress": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Turin",
+        "eco": 0
+    },
+    "NH Torino Santo Stefano": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Turin",
+        "eco": 1
+    },
+    "NH Collection Venezia Grand Hotel Palazzo dei Dogi": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Venise",
+        "eco": 0
+    },
+    "NH Collection Venezia Murano Villa": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Venise",
+        "eco": 0
+    },
+    "NH Venezia Laguna Palace": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Venise",
+        "eco": 1
+    },
+    "NH Venezia Rio Novo": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Venise",
+        "eco": 1
+    },
+    "NH Venezia Santa Lucia": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Venise",
+        "eco": 0
+    },
+    "NH Collection Palazzo Verona": {
+        "zone": "Europe",
+        "pays": "Italie",
+        "ville": "Vérone",
+        "eco": 0
+    },
+    "NH Bratislava Gate One": {
+        "zone": "Europe",
+        "pays": "Slovaquie",
+        "ville": "Bratislava",
+        "eco": 0
+    },
+    "NH Luxembourg": {
+        "zone": "Europe",
+        "pays": "Luxembourg",
+        "ville": "Luxembourg",
+        "eco": 1
+    },
+    "NH Amersfoort": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amersfoort",
+        "eco": 1
+    },
+    "NH Amsterdam Caransa": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH Amsterdam Centre": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH Amsterdam Museum Quarter": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH Amsterdam Noord": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH Amsterdam Schiller": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH Amsterdam Schiphol Airport": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH Amsterdam Zuid": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH City Centre Amsterdam": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH Collection Amsterdam Barbizon Palace": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH Collection Amsterdam Doelen": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH Collection Amsterdam Flower Market": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "NH Collection Amsterdam Grand Hotel Krasnapolsky": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 1
+    },
+    "nhow Amsterdam RAI": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Amsterdam",
+        "eco": 0
+    },
+    "NH Arnhem Rijnhotel": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Arnhem",
+        "eco": 1
+    },
+    "NH Bussum Jan Tabak": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Bussum",
+        "eco": 1
+    },
+    "NH Capelle": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Capelle aan den IJssel",
+        "eco": 1
+    },
+    "NH Collection Eindhoven Centre": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Eindhoven",
+        "eco": 1
+    },
+    "NH Eindhoven Conference Centre Koningshof": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Eindhoven",
+        "eco": 1
+    },
+    "NH Groningen": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Groningue",
+        "eco": 1
+    },
+    "NH Groningen Hotel de Ville": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Groningue",
+        "eco": 1
+    },
+    "NH Atlantic Den Haag": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "La Haye",
+        "eco": 1
+    },
+    "NH Den Haag": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "La Haye",
+        "eco": 1
+    },
+    "NH Maastricht": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Maastricht",
+        "eco": 1
+    },
+    "NH Naarden": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Naarden",
+        "eco": 1
+    },
+    "NH Noordwijk Conference Centre Leeuwenhorst": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Noordwijkerhout",
+        "eco": 1
+    },
+    "NH Veluwe Sparrenhorst": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Nunspeet",
+        "eco": 1
+    },
+    "NH Atlanta Rotterdam": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Rotterdam",
+        "eco": 1
+    },
+    "nhow Rotterdam": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Rotterdam",
+        "eco": 1
+    },
+    "NH Centre Utrecht": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Utrecht",
+        "eco": 1
+    },
+    "NH Utrecht": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Utrecht",
+        "eco": 1
+    },
+    "NH Waalwijk": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Waalwijk",
+        "eco": 1
+    },
+    "NH Zandvoort": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Zandvoort",
+        "eco": 1
+    },
+    "NH Zoetermeer": {
+        "zone": "Europe",
+        "pays": "Pays-Bas",
+        "ville": "Zoetermeer",
+        "eco": 1
+    },
+    "NH Poznan": {
+        "zone": "Europe",
+        "pays": "Pologne",
+        "ville": "Poznan",
+        "eco": 0
+    },
+    "Anantara Vilamoura Algarve Resort": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Algarve",
+        "eco": 0
+    },
+    "The Residences at Victoria Algarve": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Algarve",
+        "eco": 0
+    },
+    "Tivoli Carvoeiro Algarve Resort": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Algarve",
+        "eco": 1
+    },
+    "Tivoli Lagos Algarve Resort": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Algarve",
+        "eco": 0
+    },
+    "Tivoli Marina Portimão Algarve Resort": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Algarve",
+        "eco": 0
+    },
+    "Tivoli Marina Vilamoura Algarve Resort": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Algarve",
+        "eco": 1
+    },
+    "Tivoli Coimbra": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Coimbra",
+        "eco": 0
+    },
+    "Avani Avenida Liberdade Lisbon": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Lisbonne",
+        "eco": 0
+    },
+    "NH Collection Lisboa Liberdade": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Lisbonne",
+        "eco": 0
+    },
+    "NH Lisboa Campo Grande": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Lisbonne",
+        "eco": 0
+    },
+    "Tivoli Avenida Liberdade Lisboa": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Lisbonne",
+        "eco": 0
+    },
+    "Tivoli Oriente Lisboa": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Lisbonne",
+        "eco": 1
+    },
+    "NH Collection Porto Batalha": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Porto",
+        "eco": 0
+    },
+    "NH Porto Jardim": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Porto",
+        "eco": 0
+    },
+    "Tivoli Palácio de Seteais": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Sintra",
+        "eco": 0
+    },
+    "Tivoli Sintra": {
+        "zone": "Europe",
+        "pays": "Portugal",
+        "ville": "Sintra",
+        "eco": 1
+    },
+    "NH Collection Olomouc Congress": {
+        "zone": "Europe",
+        "pays": "République Tchèque",
+        "ville": "Olomouc",
+        "eco": 0
+    },
+    "NH Collection Prague": {
+        "zone": "Europe",
+        "pays": "République Tchèque",
+        "ville": "Prague",
+        "eco": 0
+    },
+    "NH Collection Prague Carlo IV": {
+        "zone": "Europe",
+        "pays": "République Tchèque",
+        "ville": "Prague",
+        "eco": 0
+    },
+    "NH Prague City": {
+        "zone": "Europe",
+        "pays": "République Tchèque",
+        "ville": "Prague",
+        "eco": 0
+    },
+    "NH Bucharest": {
+        "zone": "Europe",
+        "pays": "Roumanie",
+        "ville": "Bucarest",
+        "eco": 0
+    },
+    "NH Timisoara": {
+        "zone": "Europe",
+        "pays": "Roumanie",
+        "ville": "Timisoara",
+        "eco": 0
+    },
+    "NH London Kensington": {
+        "zone": "Europe",
+        "pays": "Royaume-Uni",
+        "ville": "Londres",
+        "eco": 1
+    },
+    "nhow London": {
+        "zone": "Europe",
+        "pays": "Royaume-Uni",
+        "ville": "Londres",
+        "eco": 1
+    },
+    "NH Geneva Airport": {
+        "zone": "Europe",
+        "pays": "Suisse",
+        "ville": "Genève",
+        "eco": 1
+    },
+    "NH Geneva City": {
+        "zone": "Europe",
+        "pays": "Suisse",
+        "ville": "Genève",
+        "eco": 0
+    },
+    "The Vyra Suites NH Collection Doha": {
+        "zone": "Médio Oriente",
+        "pays": "Qatar",
+        "ville": "Doha",
+        "eco": 0
+    }
+}

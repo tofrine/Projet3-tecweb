@@ -1,0 +1,65 @@
+{
+    "ɛ̀ɲàgɛl": {
+        "pos": "Verbe (v.)",
+        "prefix": "ɛ̀",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "gratter"
+        ]
+    },
+    "ʧák'láká": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "coupez"
+        ]
+    },
+    "àlúlāā": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "l' aiguille"
+        ]
+    },
+    "àɲɔ̀s": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "l' oignon"
+        ]
+    },
+    "ɓá": {
+        "pos": "Adjectif (adj.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "deux"
+        ]
+    },
+    "ɓé": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "la marmite"
+        ]
+    },
+    "ɓɛ́da": {
+        "pos": "Préposition (prép.)",
+        "prefix": "",
+        "suffix": "da",
+        "audio": 0,
+        "traduction-fr": [
+            "à; au; chez"
+        ]
+    }
+}

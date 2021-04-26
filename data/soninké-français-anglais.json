@@ -1,0 +1,32 @@
+{
+    "a": {
+        "pos": "Pronom (pron.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "pronom personnel de la troisième personne du singulier aux cas sujet, objet et circonstant: il, elle",
+            "he, him; she, her; it; third person singular pronoun;"
+        ]
+    },
+    "-a": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "suffixe attributif",
+            "attributive suffix;"
+        ]
+    },
+    "ɲa": {
+        "pos": "Verbe intransitif (v.i.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "devenir, se passer",
+            "become, happen;"
+        ]
+    }
+}

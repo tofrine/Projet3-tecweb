@@ -1,0 +1,92 @@
+{
+    "ba": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "father"
+        ]
+    },
+    "balack": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "white"
+        ]
+    },
+    "bef": {
+        "pos": "Adjectif (adj.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "spoilt"
+        ]
+    },
+    "bɛmɛh": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "to accept"
+        ]
+    },
+    "bɛnlɛh": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "to turn"
+        ]
+    },
+    "bia": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "pear"
+        ]
+    },
+    "bihlɛn": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "groundnut"
+        ]
+    },
+    "ɛbok": {
+        "pos": "Nom (n.)",
+        "prefix": "ɛ",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "melon"
+        ]
+    },
+    "bouh": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "dog"
+        ]
+    },
+    "buo": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "dog"
+        ]
+    }
+}

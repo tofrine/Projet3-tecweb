@@ -1,0 +1,109 @@
+{
+    "a": {
+        "pos": "Pronom (pron.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "il",
+            "elle"
+        ]
+    },
+    "ā": {
+        "pos": "Interjection (interj.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "refus énergitique, le mécontentement (avec hochement de la tête): non",
+            "être déjà",
+            "être déjà entrain de"
+        ]
+    },
+    "aba": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "partager",
+            "séparer",
+            "diviser",
+            "désunir"
+        ]
+    },
+    "ába": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "lamper"
+        ]
+    },
+    "aba !": {
+        "pos": "Interjection (interj.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "la surprise",
+            "le désespoir",
+            "la douleur: oh !"
+        ]
+    },
+    "abanɛ": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "partager avec quelqu'un",
+            "distribuer",
+            "se séparer",
+            "se désunir"
+        ]
+    },
+    "abea": {
+        "pos": "Locution (loc.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "faire cadeau",
+            "donner à",
+            "faire une offrande",
+            "dispenser"
+        ]
+    },
+    "abolo": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "maïs moulu enveloppé dans des feuilles et cuit"
+        ]
+    },
+    "abwa": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "monter"
+        ]
+    },
+    "abwɛlɛ": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "faire monter",
+            "élever",
+            "hausser",
+            "exalter"
+        ]
+    }
+}

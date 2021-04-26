@@ -1,0 +1,1846 @@
+{
+    "Afrique": {
+        "Tunisie": {
+            "Tozeur": [
+                [
+                    "Anantara Sahara Tozeur Resort & Villas",
+                    0
+                ]
+            ]
+        }
+    },
+    "Amérique": {
+        "Argentine": {
+            "Bariloche": [
+                [
+                    "NH Bariloche Edelweiss",
+                    1
+                ]
+            ],
+            "Buenos Aires": [
+                [
+                    "NH Buenos Aires 9 de Julio",
+                    1
+                ],
+                [
+                    "NH Buenos Aires City",
+                    0
+                ],
+                [
+                    "NH Buenos Aires Florida",
+                    0
+                ],
+                [
+                    "NH Buenos Aires Latino",
+                    0
+                ],
+                [
+                    "NH Buenos Aires Tango",
+                    1
+                ],
+                [
+                    "NH Collection Buenos Aires Centro Histórico",
+                    0
+                ],
+                [
+                    "NH Collection Buenos Aires Crillon",
+                    0
+                ],
+                [
+                    "NH Collection Buenos Aires Jousten",
+                    1
+                ],
+                [
+                    "NH Collection Buenos Aires Lancaster",
+                    1
+                ]
+            ],
+            "Cordoba": [
+                [
+                    "NH Córdoba Panorama",
+                    1
+                ],
+                [
+                    "NH Córdoba Urbano",
+                    0
+                ]
+            ],
+            "Mar del Plata": [
+                [
+                    "NH Gran Hotel Provincial",
+                    0
+                ],
+                [
+                    "NH Hotel Casino",
+                    0
+                ]
+            ],
+            "Mendoza": [
+                [
+                    "NH Mendoza Cordillera",
+                    0
+                ]
+            ]
+        },
+        "Brésil": {
+            "Curitiba": [
+                [
+                    "NH Curitiba The Five",
+                    0
+                ]
+            ]
+        },
+        "Chili": {
+            "Antofagasta": [
+                [
+                    "NH Antofagasta",
+                    0
+                ]
+            ],
+            "Iquique": [
+                [
+                    "NH Iquique",
+                    0
+                ]
+            ],
+            "Santiago": [
+                [
+                    "NH Ciudad de Santiago",
+                    0
+                ],
+                [
+                    "NH Collection Plaza Santiago",
+                    0
+                ],
+                [
+                    "NH Collection Santiago Casacostanera",
+                    0
+                ]
+            ]
+        },
+        "Colombie": {
+            "Barranquilla": [
+                [
+                    "NH Collection Barranquilla Smartsuites Royal",
+                    0
+                ]
+            ],
+            "Bogotá": [
+                [
+                    "NH Bogotá Boheme Royal",
+                    1
+                ],
+                [
+                    "NH Bogotá Pavillon Royal",
+                    0
+                ],
+                [
+                    "NH Bogotá Urban 26 Royal",
+                    0
+                ],
+                [
+                    "NH Bogotá Urban 93 Royal",
+                    0
+                ],
+                [
+                    "NH Collection Bogotá Andino Royal",
+                    1
+                ],
+                [
+                    "NH Collection Bogotá Hacienda Royal",
+                    1
+                ],
+                [
+                    "NH Collection Bogotá Teleport Royal",
+                    1
+                ],
+                [
+                    "NH Collection Bogotá Terra 100 Royal",
+                    1
+                ],
+                [
+                    "NH Collection Bogotá WTC Royal",
+                    1
+                ]
+            ],
+            "Cali": [
+                [
+                    "NH Cali Royal",
+                    0
+                ]
+            ],
+            "Carthagène des Indes": [
+                [
+                    "NH Cartagena Urban Royal",
+                    0
+                ]
+            ],
+            "Medellín": [
+                [
+                    "NH Collection Medellín Royal",
+                    0
+                ]
+            ]
+        },
+        "Cuba": {
+            "La Havane": [
+                [
+                    "NH Capri La Habana",
+                    0
+                ],
+                [
+                    "NH Collection Victoria La Habana",
+                    0
+                ]
+            ]
+        },
+        "Équateur": {
+            "Quito": [
+                [
+                    "NH Collection Quito Royal",
+                    0
+                ]
+            ]
+        },
+        "États-Unis": {
+            "New York": [
+                [
+                    "NH Collection New York Madison Avenue",
+                    0
+                ]
+            ]
+        },
+        "Haïti": {
+            "Port au Prince": [
+                [
+                    "NH Haiti El Rancho",
+                    0
+                ]
+            ]
+        },
+        "Mexique": {
+            "Cancún": [
+                [
+                    "NH Cancún Airport",
+                    0
+                ]
+            ],
+            "Coatzacoalcos": [
+                [
+                    "NH Coatzacoalcos",
+                    0
+                ]
+            ],
+            "Guadalajara": [
+                [
+                    "NH Collection Guadalajara Providencia",
+                    1
+                ]
+            ],
+            "León": [
+                [
+                    "NH Collection León Expo",
+                    0
+                ]
+            ],
+            "Mérida": [
+                [
+                    "NH Collection Mérida Paseo Montejo",
+                    0
+                ]
+            ],
+            "Mexico": [
+                [
+                    "NH Collection Mexico City Airport T2",
+                    0
+                ],
+                [
+                    "NH Collection Mexico City Centro Histórico",
+                    1
+                ],
+                [
+                    "NH Collection Mexico City Reforma",
+                    0
+                ],
+                [
+                    "NH Collection Mexico City Santa Fe",
+                    0
+                ],
+                [
+                    "NH Mexico City Valle Dorado",
+                    0
+                ]
+            ],
+            "Monterrey": [
+                [
+                    "NH Collection Monterrey San Pedro",
+                    0
+                ],
+                [
+                    "NH Monterrey La Fe",
+                    0
+                ]
+            ],
+            "Puebla": [
+                [
+                    "NH Puebla Centro Histórico",
+                    0
+                ],
+                [
+                    "NH Puebla Finsa",
+                    0
+                ]
+            ],
+            "Queretaro": [
+                [
+                    "NH Queretaro",
+                    0
+                ]
+            ],
+            "San Luis Potosí": [
+                [
+                    "NH Collection Monterrey San Pedro",
+                    0
+                ]
+            ]
+        },
+        "Uruguay": {
+            "Montevideo": [
+                [
+                    "NH Montevideo Columbia",
+                    0
+                ]
+            ]
+        }
+    },
+    "Europe": {
+        "Allemagne": {
+            "Berlin": [
+                [
+                    "NH Berlin Alexanderplatz",
+                    1
+                ],
+                [
+                    "NH Berlin City Ost",
+                    0
+                ],
+                [
+                    "NH Berlin Kurfürstendamm",
+                    1
+                ],
+                [
+                    "NH Berlin Potsdamer Platz",
+                    1
+                ],
+                [
+                    "NH Collection Berlin Mitte Friedrichstrasse",
+                    1
+                ],
+                [
+                    "NH Collection Berlin Mitte am Checkpoint Charlie",
+                    1
+                ],
+                [
+                    "nhow Berlin",
+                    1
+                ]
+            ],
+            "Bingen am Rhein": [
+                [
+                    "NH Bingen",
+                    1
+                ]
+            ],
+            "Cologne": [
+                [
+                    "NH Collection Köln Mediapark",
+                    1
+                ],
+                [
+                    "NH Köln Altstadt",
+                    1
+                ]
+            ],
+            "Dortmund": [
+                [
+                    "NH Dortmund",
+                    1
+                ]
+            ],
+            "Dresde": [
+                [
+                    "NH Collection Dresden Altmarkt",
+                    1
+                ],
+                [
+                    "NH Dresden Neustadt",
+                    1
+                ]
+            ],
+            "Düsseldorf": [
+                [
+                    "NH Düsseldorf City",
+                    1
+                ],
+                [
+                    "NH Düsseldorf City Nord",
+                    1
+                ],
+                [
+                    "NH Düsseldorf Königsallee",
+                    1
+                ]
+            ],
+            "Erlangen": [
+                [
+                    "NH Erlangen",
+                    1
+                ]
+            ],
+            "Essen": [
+                [
+                    "NH Essen",
+                    0
+                ]
+            ],
+            "Francfort": [
+                [
+                    "NH Collection Frankfurt City",
+                    1
+                ],
+                [
+                    "NH Frankfurt Airport",
+                    1
+                ],
+                [
+                    "NH Frankfurt Airport West",
+                    1
+                ],
+                [
+                    "NH Frankfurt Messe",
+                    1
+                ],
+                [
+                    "NH Frankfurt Mörfelden Conference Center",
+                    1
+                ],
+                [
+                    "NH Frankfurt Niederrad",
+                    1
+                ],
+                [
+                    "NH Frankfurt Villa",
+                    0
+                ]
+            ],
+            "Fürth": [
+                [
+                    "NH Fürth Nürnberg",
+                    1
+                ]
+            ],
+            "Hambourg": [
+                [
+                    "NH Collection Hamburg City",
+                    1
+                ],
+                [
+                    "NH Hamburg Altona",
+                    1
+                ],
+                [
+                    "NH Hamburg Horner Rennbahn",
+                    1
+                ],
+                [
+                    "NH Hamburg Mitte",
+                    1
+                ]
+            ],
+            "Hanovre": [
+                [
+                    "NH Hannover",
+                    0
+                ]
+            ],
+            "Heidelberg": [
+                [
+                    "NH Heidelberg",
+                    1
+                ]
+            ],
+            "Hirschberg": [
+                [
+                    "NH Hirschberg Heidelberg",
+                    1
+                ]
+            ],
+            "Ingolstadt": [
+                [
+                    "NH Ingolstadt",
+                    1
+                ]
+            ],
+            "Leipzig": [
+                [
+                    "NH Leipzig Messe",
+                    1
+                ],
+                [
+                    "NH Leipzig Zentrum",
+                    0
+                ]
+            ],
+            "Ludwigsbourg": [
+                [
+                    "NH Ludwigsburg",
+                    1
+                ]
+            ],
+            "Magdeburg": [
+                [
+                    "NH Magdeburg",
+                    1
+                ]
+            ],
+            "Mannheim": [
+                [
+                    "NH Mannheim",
+                    0
+                ],
+                [
+                    "NH Mannheim Viernheim",
+                    1
+                ]
+            ],
+            "Munich": [
+                [
+                    "NH Collection München Bavaria",
+                    1
+                ],
+                [
+                    "NH München Airport",
+                    1
+                ],
+                [
+                    "NH München City Süd",
+                    1
+                ],
+                [
+                    "NH München Messe",
+                    1
+                ],
+                [
+                    "NH München Ost Conference Center",
+                    1
+                ],
+                [
+                    "NH München Unterhaching",
+                    1
+                ]
+            ],
+            "Nördlingen": [
+                [
+                    "NH Klösterle Nördlingen",
+                    1
+                ]
+            ],
+            "Nuremberg": [
+                [
+                    "NH Collection Nürnberg City",
+                    1
+                ]
+            ],
+            "Oberhausen": [
+                [
+                    "NH Oberhausen",
+                    0
+                ]
+            ],
+            "Potsdam": [
+                [
+                    "NH Potsdam",
+                    1
+                ]
+            ],
+            "Schwerin": [
+                [
+                    "NH Schwerin",
+                    1
+                ]
+            ],
+            "Stuttgart": [
+                [
+                    "NH Stuttgart Airport",
+                    1
+                ],
+                [
+                    "NH Stuttgart Sindelfingen",
+                    1
+                ]
+            ],
+            "Weinheim": [
+                [
+                    "NH Weinheim",
+                    1
+                ]
+            ],
+            "Wiesbaden": [
+                [
+                    "NH Wiesbaden",
+                    1
+                ]
+            ]
+        },
+        "Andorre": {
+            "Andorra La Vella": [
+                [
+                    "NH Andorra La Vella",
+                    0
+                ]
+            ]
+        },
+        "Autriche": {
+            "Graz": [
+                [
+                    "NH Graz City",
+                    0
+                ]
+            ],
+            "Salzbourg": [
+                [
+                    "NH Salzburg City",
+                    1
+                ]
+            ],
+            "Vienne": [
+                [
+                    "NH Collection Wien Zentrum",
+                    1
+                ],
+                [
+                    "NH Danube City",
+                    1
+                ],
+                [
+                    "NH Vienna Airport Conference Center",
+                    1
+                ],
+                [
+                    "NH Wien Belvedere",
+                    1
+                ],
+                [
+                    "NH Wien City",
+                    1
+                ]
+            ]
+        },
+        "Belgique": {
+            "Anvers": [
+                [
+                    "NH Collection Antwerp Centre",
+                    1
+                ]
+            ],
+            "Bruges": [
+                [
+                    "NH Brugge",
+                    1
+                ]
+            ],
+            "Bruxelles": [
+                [
+                    "NH Brussels Airport",
+                    1
+                ],
+                [
+                    "NH Brussels Carrefour Europe",
+                    1
+                ],
+                [
+                    "NH Brussels EU Berlaymont",
+                    1
+                ],
+                [
+                    "NH Brussels Grand Place Arenberg",
+                    1
+                ],
+                [
+                    "NH Brussels Louise",
+                    1
+                ],
+                [
+                    "NH Brussels Stéphanie",
+                    1
+                ],
+                [
+                    "NH Collection Brussels Centre",
+                    1
+                ],
+                [
+                    "NH Collection Brussels Grand Sablon",
+                    1
+                ],
+                [
+                    "nhow Brussels Bloom",
+                    1
+                ]
+            ],
+            "Gand": [
+                [
+                    "NH Gent Belfort",
+                    1
+                ]
+            ],
+            "Malines": [
+                [
+                    "NH Mechelen",
+                    1
+                ]
+            ]
+        },
+        "Espagne": {
+            "Algeciras": [
+                [
+                    "NH Campo de Gibraltar",
+                    0
+                ]
+            ],
+            "Alicante": [
+                [
+                    "NH Alicante",
+                    0
+                ]
+            ],
+            "Aranjuez": [
+                [
+                    "NH Collection Palacio de Aranjuez",
+                    1
+                ]
+            ],
+            "Aviles": [
+                [
+                    "NH Collection Palacio de Avilés",
+                    0
+                ]
+            ],
+            "Badajoz": [
+                [
+                    "NH Gran Hotel Casino Extremadura",
+                    0
+                ]
+            ],
+            "Barcelone": [
+                [
+                    "NH Barcelona Diagonal Center",
+                    0
+                ],
+                [
+                    "NH Barcelona Eixample",
+                    1
+                ],
+                [
+                    "NH Barcelona Entenza",
+                    0
+                ],
+                [
+                    "NH Barcelona Les Corts",
+                    0
+                ],
+                [
+                    "NH Barcelona Stadium",
+                    1
+                ],
+                [
+                    "NH Collection Barcelona Constanza",
+                    1
+                ],
+                [
+                    "NH Collection Barcelona Gran Hotel Calderón",
+                    1
+                ],
+                [
+                    "NH Collection Barcelona Pódium",
+                    1
+                ],
+                [
+                    "NH Porta Barcelona",
+                    1
+                ],
+                [
+                    "NH Sant Boi",
+                    0
+                ],
+                [
+                    "NH Sants Barcelona",
+                    1
+                ]
+            ],
+            "Bilbao": [
+                [
+                    "NH Bilbao Deusto",
+                    1
+                ],
+                [
+                    "NH Collection Villa de Bilbao",
+                    1
+                ],
+                [
+                    "NH La Avanzada",
+                    0
+                ]
+            ],
+            "Burgos": [
+                [
+                    "NH Collection Palacio de Burgos",
+                    0
+                ]
+            ],
+            "Cáceres": [
+                [
+                    "NH Collection Cáceres Palacio de Oquendo",
+                    1
+                ]
+            ],
+            "Carthagène": [
+                [
+                    "NH Campo Cartagena",
+                    0
+                ],
+                [
+                    "NH Cartagena",
+                    0
+                ]
+            ],
+            "Castellon": [
+                [
+                    "NH Castellón Mindoro",
+                    0
+                ],
+                [
+                    "NH Castellón Turcosa",
+                    0
+                ]
+            ],
+            "Ciudad Real": [
+                [
+                    "NH Ciudad Real",
+                    0
+                ]
+            ],
+            "Cordoue": [
+                [
+                    "NH Collection Amistad Córdoba",
+                    1
+                ],
+                [
+                    "NH Córdoba Califa",
+                    0
+                ]
+            ],
+            "Cuenca": [
+                [
+                    "NH Ciudad de Cuenca",
+                    0
+                ]
+            ],
+            "Gijon": [
+                [
+                    "NH Gijón",
+                    1
+                ]
+            ],
+            "Grenade": [
+                [
+                    "NH Collection Granada Victoria",
+                    1
+                ]
+            ],
+            "Huelva": [
+                [
+                    "NH Luz Huelva",
+                    0
+                ]
+            ],
+            "Jerez de la Frontera": [
+                [
+                    "NH Avenida Jerez",
+                    0
+                ]
+            ],
+            "La Corogne": [
+                [
+                    "NH Collection A Coruña Finisterre",
+                    0
+                ]
+            ],
+            "Las Palmas de Gran Canaria": [
+                [
+                    "NH Imperial Playa",
+                    0
+                ],
+                [
+                    "NH Las Palmas Playa Las Canteras",
+                    0
+                ]
+            ],
+            "Leon": [
+                [
+                    "NH Collection León Plaza Mayor",
+                    1
+                ]
+            ],
+            "Lleida": [
+                [
+                    "NH Lleida Pirineos",
+                    0
+                ]
+            ],
+            "Logroño": [
+                [
+                    "NH Logroño",
+                    0
+                ],
+                [
+                    "NH Logroño Herencia Rioja",
+                    0
+                ]
+            ],
+            "Madrid": [
+                [
+                    "NH Alcorcón",
+                    0
+                ],
+                [
+                    "NH Collection Madrid Abascal",
+                    1
+                ],
+                [
+                    "NH Collection Madrid Colón",
+                    1
+                ],
+                [
+                    "NH Collection Madrid Eurobuilding",
+                    1
+                ],
+                [
+                    "NH Collection Madrid Gran Vía",
+                    0
+                ],
+                [
+                    "NH Collection Madrid Palacio de Tepa",
+                    1
+                ],
+                [
+                    "NH Collection Madrid Paseo del Prado",
+                    1
+                ],
+                [
+                    "NH Collection Madrid Suecia",
+                    1
+                ],
+                [
+                    "NH Leganés",
+                    0
+                ],
+                [
+                    "NH Madrid Alonso Martínez",
+                    1
+                ],
+                [
+                    "NH Madrid Atocha",
+                    0
+                ],
+                [
+                    "NH Madrid Balboa",
+                    0
+                ],
+                [
+                    "NH Madrid Barajas Airport",
+                    0
+                ],
+                [
+                    "NH Madrid Chamberí",
+                    0
+                ],
+                [
+                    "NH Madrid Lagasca",
+                    0
+                ],
+                [
+                    "NH Madrid Las Tablas",
+                    0
+                ],
+                [
+                    "NH Madrid Nacional",
+                    1
+                ],
+                [
+                    "NH Madrid Paseo de la Habana",
+                    0
+                ],
+                [
+                    "NH Madrid Príncipe de Vergara",
+                    0
+                ],
+                [
+                    "NH Madrid Ribera del Manzanares",
+                    1
+                ],
+                [
+                    "NH Madrid Sur",
+                    0
+                ],
+                [
+                    "NH Madrid Ventas",
+                    1
+                ],
+                [
+                    "NH Madrid Zurbano",
+                    1
+                ],
+                [
+                    "NH Pozuelo Ciudad de la Imagen",
+                    0
+                ],
+                [
+                    "NH Villa de Coslada",
+                    0
+                ]
+            ],
+            "Malaga": [
+                [
+                    "NH Málaga",
+                    0
+                ]
+            ],
+            "Marbella": [
+                [
+                    "Anantara Villa Padierna Palace Benahavís Marbella Resort",
+                    0
+                ],
+                [
+                    "NH Marbella",
+                    0
+                ],
+                [
+                    "NH San Pedro de Alcántara",
+                    0
+                ]
+            ],
+            "Murcie": [
+                [
+                    "NH Amistad Murcia",
+                    0
+                ]
+            ],
+            "Ourense": [
+                [
+                    "NH Ourense",
+                    0
+                ]
+            ],
+            "Oviedo": [
+                [
+                    "NH Oviedo Principado",
+                    0
+                ]
+            ],
+            "Pampelune": [
+                [
+                    "NH Pamplona Iruña Park",
+                    1
+                ]
+            ],
+            "Reus": [
+                [
+                    "NH Ciutat de Reus",
+                    1
+                ]
+            ],
+            "Saint Jacques de Compostelle": [
+                [
+                    "NH Collection Santiago de Compostela",
+                    0
+                ]
+            ],
+            "Saint Sébastien": [
+                [
+                    "NH Collection San Sebastián Aránzazu",
+                    1
+                ]
+            ],
+            "Salamanque": [
+                [
+                    "NH Collection Salamanca Palacio de Castellanos",
+                    0
+                ],
+                [
+                    "NH Salamanca Puerta de la Catedral",
+                    0
+                ]
+            ],
+            "Santa Cruz de Tenerife": [
+                [
+                    "NH Tenerife",
+                    0
+                ]
+            ],
+            "Santander": [
+                [
+                    "NH Ciudad de Santander",
+                    1
+                ]
+            ],
+            "Saragosse": [
+                [
+                    "NH Ciudad de Zaragoza",
+                    0
+                ],
+                [
+                    "NH Collection Gran Hotel de Zaragoza",
+                    1
+                ],
+                [
+                    "NH Sport",
+                    0
+                ]
+            ],
+            "Séville": [
+                [
+                    "NH Collection Sevilla",
+                    1
+                ],
+                [
+                    "NH Sevilla Plaza de Armas",
+                    1
+                ]
+            ],
+            "Valence": [
+                [
+                    "NH Ciudad de Valencia",
+                    0
+                ],
+                [
+                    "NH Collection Valencia Colón",
+                    0
+                ],
+                [
+                    "NH Valencia Center",
+                    0
+                ],
+                [
+                    "NH Valencia Las Artes",
+                    0
+                ],
+                [
+                    "NH Valencia Las Ciencias",
+                    0
+                ]
+            ],
+            "Valladolid": [
+                [
+                    "NH Ciudad de Valladolid",
+                    0
+                ],
+                [
+                    "NH Valladolid Bálago",
+                    0
+                ]
+            ],
+            "Vigo": [
+                [
+                    "NH Collection Vigo",
+                    0
+                ]
+            ],
+            "Vitoria": [
+                [
+                    "NH Canciller Ayala Vitoria",
+                    0
+                ]
+            ],
+            "Zamora": [
+                [
+                    "NH Zamora Palacio del Duero",
+                    0
+                ]
+            ]
+        },
+        "France": {
+            "Lyon": [
+                [
+                    "NH Lyon Airport",
+                    1
+                ]
+            ],
+            "Marseille": [
+                [
+                    "NH Collection Marseille",
+                    0
+                ],
+                [
+                    "nhow Marseille",
+                    0
+                ]
+            ],
+            "Nice": [
+                [
+                    "NH Nice",
+                    1
+                ]
+            ],
+            "Toulouse": [
+                [
+                    "NH Toulouse Airport",
+                    0
+                ]
+            ]
+        },
+        "Hongrie": {
+            "Budapest": [
+                [
+                    "Anantara New York Palace Budapest Hotel",
+                    0
+                ],
+                [
+                    "NH Budapest City",
+                    0
+                ],
+                [
+                    "NH Collection Budapest City Center",
+                    0
+                ]
+            ]
+        },
+        "Irlande": {
+            "Dublin": [
+                [
+                    "The Marker Hotel",
+                    0
+                ]
+            ]
+        },
+        "Italie": {
+            "Ancône": [
+                [
+                    "NH Ancona",
+                    0
+                ]
+            ],
+            "Bergame": [
+                [
+                    "NH Bergamo",
+                    1
+                ],
+                [
+                    "NH Orio al Serio",
+                    1
+                ]
+            ],
+            "Bologne": [
+                [
+                    "NH Bologna Villanova",
+                    1
+                ],
+                [
+                    "NH Bologna de la Gare",
+                    1
+                ]
+            ],
+            "Caltagirone": [
+                [
+                    "NH Caltagirone Villa San Mauro",
+                    0
+                ]
+            ],
+            "Catane": [
+                [
+                    "NH Catania Centro",
+                    1
+                ],
+                [
+                    "NH Catania Parco Degli Aragonesi",
+                    1
+                ]
+            ],
+            "Côte Amalfitaine": [
+                [
+                    "NH Collection Grand Hotel Convento di Amalfi",
+                    1
+                ]
+            ],
+            "Florence": [
+                [
+                    "NH Collection Firenze Palazzo Gaddi",
+                    0
+                ],
+                [
+                    "NH Collection Firenze Porta Rossa",
+                    1
+                ],
+                [
+                    "NH Firenze",
+                    1
+                ]
+            ],
+            "Gênes": [
+                [
+                    "NH Collection Genova Marina",
+                    1
+                ],
+                [
+                    "NH Genova Centro",
+                    1
+                ]
+            ],
+            "La Spezia": [
+                [
+                    "NH La Spezia",
+                    1
+                ]
+            ],
+            "Lecco, Lac de Côme": [
+                [
+                    "NH Lecco Pontevecchio",
+                    1
+                ]
+            ],
+            "Milan": [
+                [
+                    "NH Collection Milano Porta Nuova",
+                    1
+                ],
+                [
+                    "NH Collection Milano President",
+                    1
+                ],
+                [
+                    "NH Linate",
+                    1
+                ],
+                [
+                    "NH Milano 2",
+                    1
+                ],
+                [
+                    "NH Milano 2 Residence",
+                    1
+                ],
+                [
+                    "NH Milano Concordia",
+                    1
+                ],
+                [
+                    "NH Milano Congress Centre",
+                    0
+                ],
+                [
+                    "NH Milano Fiera",
+                    1
+                ],
+                [
+                    "NH Milano Machiavelli",
+                    1
+                ],
+                [
+                    "NH Milano Palazzo Moscova",
+                    1
+                ],
+                [
+                    "NH Milano Touring",
+                    1
+                ],
+                [
+                    "nhow Milano",
+                    1
+                ]
+            ],
+            "Naples": [
+                [
+                    "NH Napoli Panorama",
+                    1
+                ]
+            ],
+            "Padoue": [
+                [
+                    "NH Padova",
+                    1
+                ]
+            ],
+            "Palerme": [
+                [
+                    "NH Palermo",
+                    1
+                ]
+            ],
+            "Parme": [
+                [
+                    "NH Parma",
+                    1
+                ]
+            ],
+            "Pise": [
+                [
+                    "NH Pisa",
+                    1
+                ]
+            ],
+            "Ravenne": [
+                [
+                    "NH Ravenna",
+                    1
+                ]
+            ],
+            "Rome": [
+                [
+                    "Anantara Palazzo Naiadi Rome Hotel",
+                    0
+                ],
+                [
+                    "NH Collection Roma Centro",
+                    1
+                ],
+                [
+                    "NH Collection Roma Fori Imperiali",
+                    1
+                ],
+                [
+                    "NH Collection Roma Giustiniano",
+                    1
+                ],
+                [
+                    "NH Collection Roma Palazzo Cinquecento",
+                    1
+                ],
+                [
+                    "NH Collection Roma Vittorio Veneto",
+                    1
+                ],
+                [
+                    "NH Roma Villa Carpegna",
+                    1
+                ]
+            ],
+            "Savone": [
+                [
+                    "NH Savona Darsena",
+                    1
+                ]
+            ],
+            "Sienne": [
+                [
+                    "NH Siena",
+                    1
+                ]
+            ],
+            "Taormine": [
+                [
+                    "NH Collection Taormina",
+                    1
+                ]
+            ],
+            "Trento": [
+                [
+                    "NH Trento",
+                    1
+                ]
+            ],
+            "Trieste": [
+                [
+                    "NH Trieste",
+                    1
+                ]
+            ],
+            "Turin": [
+                [
+                    "NH Collection Torino Piazza Carlina",
+                    0
+                ],
+                [
+                    "NH Torino Centro",
+                    0
+                ],
+                [
+                    "NH Torino Lingotto Congress",
+                    0
+                ],
+                [
+                    "NH Torino Santo Stefano",
+                    1
+                ]
+            ],
+            "Venise": [
+                [
+                    "NH Collection Venezia Grand Hotel Palazzo dei Dogi",
+                    0
+                ],
+                [
+                    "NH Collection Venezia Murano Villa",
+                    0
+                ],
+                [
+                    "NH Venezia Laguna Palace",
+                    1
+                ],
+                [
+                    "NH Venezia Rio Novo",
+                    1
+                ],
+                [
+                    "NH Venezia Santa Lucia",
+                    0
+                ]
+            ],
+            "Vérone": [
+                [
+                    "NH Collection Palazzo Verona",
+                    0
+                ]
+            ]
+        },
+        "Slovaquie": {
+            "Bratislava": [
+                [
+                    "NH Bratislava Gate One",
+                    0
+                ]
+            ]
+        },
+        "Luxembourg": {
+            "Luxembourg": [
+                [
+                    "NH Luxembourg",
+                    1
+                ]
+            ]
+        },
+        "Pays-Bas": {
+            "Amersfoort": [
+                [
+                    "NH Amersfoort",
+                    1
+                ]
+            ],
+            "Amsterdam": [
+                [
+                    "NH Amsterdam Caransa",
+                    1
+                ],
+                [
+                    "NH Amsterdam Centre",
+                    1
+                ],
+                [
+                    "NH Amsterdam Museum Quarter",
+                    1
+                ],
+                [
+                    "NH Amsterdam Noord",
+                    1
+                ],
+                [
+                    "NH Amsterdam Schiller",
+                    1
+                ],
+                [
+                    "NH Amsterdam Schiphol Airport",
+                    1
+                ],
+                [
+                    "NH Amsterdam Zuid",
+                    1
+                ],
+                [
+                    "NH City Centre Amsterdam",
+                    1
+                ],
+                [
+                    "NH Collection Amsterdam Barbizon Palace",
+                    1
+                ],
+                [
+                    "NH Collection Amsterdam Doelen",
+                    1
+                ],
+                [
+                    "NH Collection Amsterdam Flower Market",
+                    1
+                ],
+                [
+                    "NH Collection Amsterdam Grand Hotel Krasnapolsky",
+                    1
+                ],
+                [
+                    "nhow Amsterdam RAI",
+                    0
+                ]
+            ],
+            "Arnhem": [
+                [
+                    "NH Arnhem Rijnhotel",
+                    1
+                ]
+            ],
+            "Bussum": [
+                [
+                    "NH Bussum Jan Tabak",
+                    1
+                ]
+            ],
+            "Capelle aan den IJssel": [
+                [
+                    "NH Capelle",
+                    1
+                ]
+            ],
+            "Eindhoven": [
+                [
+                    "NH Collection Eindhoven Centre",
+                    1
+                ],
+                [
+                    "NH Eindhoven Conference Centre Koningshof",
+                    1
+                ]
+            ],
+            "Groningue": [
+                [
+                    "NH Groningen",
+                    1
+                ],
+                [
+                    "NH Groningen Hotel de Ville",
+                    1
+                ]
+            ],
+            "La Haye": [
+                [
+                    "NH Atlantic Den Haag",
+                    1
+                ],
+                [
+                    "NH Den Haag",
+                    1
+                ]
+            ],
+            "Maastricht": [
+                [
+                    "NH Maastricht",
+                    1
+                ]
+            ],
+            "Naarden": [
+                [
+                    "NH Naarden",
+                    1
+                ]
+            ],
+            "Noordwijkerhout": [
+                [
+                    "NH Noordwijk Conference Centre Leeuwenhorst",
+                    1
+                ]
+            ],
+            "Nunspeet": [
+                [
+                    "NH Veluwe Sparrenhorst",
+                    1
+                ]
+            ],
+            "Rotterdam": [
+                [
+                    "NH Atlanta Rotterdam",
+                    1
+                ],
+                [
+                    "nhow Rotterdam",
+                    1
+                ]
+            ],
+            "Utrecht": [
+                [
+                    "NH Centre Utrecht",
+                    1
+                ],
+                [
+                    "NH Utrecht",
+                    1
+                ]
+            ],
+            "Waalwijk": [
+                [
+                    "NH Waalwijk",
+                    1
+                ]
+            ],
+            "Zandvoort": [
+                [
+                    "NH Zandvoort",
+                    1
+                ]
+            ],
+            "Zoetermeer": [
+                [
+                    "NH Zoetermeer",
+                    1
+                ]
+            ]
+        },
+        "Pologne": {
+            "Poznan": [
+                [
+                    "NH Poznan",
+                    0
+                ]
+            ]
+        },
+        "Portugal": {
+            "Algarve": [
+                [
+                    "Anantara Vilamoura Algarve Resort",
+                    0
+                ],
+                [
+                    "The Residences at Victoria Algarve",
+                    0
+                ],
+                [
+                    "Tivoli Carvoeiro Algarve Resort",
+                    1
+                ],
+                [
+                    "Tivoli Lagos Algarve Resort",
+                    0
+                ],
+                [
+                    "Tivoli Marina Portimão Algarve Resort",
+                    0
+                ],
+                [
+                    "Tivoli Marina Vilamoura Algarve Resort",
+                    1
+                ]
+            ],
+            "Coimbra": [
+                [
+                    "Tivoli Coimbra",
+                    0
+                ]
+            ],
+            "Lisbonne": [
+                [
+                    "Avani Avenida Liberdade Lisbon",
+                    0
+                ],
+                [
+                    "NH Collection Lisboa Liberdade",
+                    0
+                ],
+                [
+                    "NH Lisboa Campo Grande",
+                    0
+                ],
+                [
+                    "Tivoli Avenida Liberdade Lisboa",
+                    0
+                ],
+                [
+                    "Tivoli Oriente Lisboa",
+                    1
+                ]
+            ],
+            "Porto": [
+                [
+                    "NH Collection Porto Batalha",
+                    0
+                ],
+                [
+                    "NH Porto Jardim",
+                    0
+                ]
+            ],
+            "Sintra": [
+                [
+                    "Tivoli Palácio de Seteais",
+                    0
+                ],
+                [
+                    "Tivoli Sintra",
+                    1
+                ]
+            ]
+        },
+        "République Tchèque": {
+            "Olomouc": [
+                [
+                    "NH Collection Olomouc Congress",
+                    0
+                ]
+            ],
+            "Prague": [
+                [
+                    "NH Collection Prague",
+                    0
+                ],
+                [
+                    "NH Collection Prague Carlo IV",
+                    0
+                ],
+                [
+                    "NH Prague City",
+                    0
+                ]
+            ]
+        },
+        "Roumanie": {
+            "Bucarest": [
+                [
+                    "NH Bucharest",
+                    0
+                ]
+            ],
+            "Timisoara": [
+                [
+                    "NH Timisoara",
+                    0
+                ]
+            ]
+        },
+        "Royaume-Uni": {
+            "Londres": [
+                [
+                    "NH London Kensington",
+                    1
+                ],
+                [
+                    "nhow London",
+                    1
+                ]
+            ]
+        },
+        "Suisse": {
+            "Genève": [
+                [
+                    "NH Geneva Airport",
+                    1
+                ],
+                [
+                    "NH Geneva City",
+                    0
+                ]
+            ]
+        }
+    },
+    "Médio Oriente": {
+        "Qatar": {
+            "Doha": [
+                [
+                    "The Vyra Suites NH Collection Doha",
+                    0
+                ]
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "áá!": {
+        "pos": "Interjection (interj.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "ah!"
+        ]
+    },
+    "ʧál": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "feuilles"
+        ]
+    },
+    "ʤàlá": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "crabe"
+        ]
+    },
+    "àlèlújà!": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 1,
+        "traduction-fr": [
+            "alleluia"
+        ]
+    },
+    "ʤàm": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "la chose"
+        ]
+    },
+    "amb": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "chasse aux piège"
+        ]
+    },
+    "ànɛ̀": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "le pouvoir"
+        ]
+    },
+    "ànɛ́": {
+        "pos": "Verbe (v.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "administrer"
+        ]
+    },
+    "ʤàp": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "la jaunisse"
+        ]
+    },
+    "ʤàs": {
+        "pos": "Nom (n.)",
+        "prefix": "",
+        "suffix": "",
+        "audio": 0,
+        "traduction-fr": [
+            "menton"
+        ]
+    }
+}
